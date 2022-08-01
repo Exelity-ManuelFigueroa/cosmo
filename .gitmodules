@@ -1,9 +1,1 @@
-[submodule "exelity-odoo/odoosv"]
-	path = exelity-odoo/odoosv
-	url = git@github.com:exelity-odoo/odoosv.git
-	branch = 15.0
 
-[submodule "Exelity-ManuelFigueroa/OdoosvCosmo"]
-	path = Exelity-ManuelFigueroa/OdoosvCosmo
-	url = git@github.com:Exelity-ManuelFigueroa/OdoosvCosmo.git
-	branch = main
