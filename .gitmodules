@@ -1,6 +1,1 @@
 
-
-[submodule "Exelity-ManuelFigueroa/OdoosvCosmo"]
-	path = Exelity-ManuelFigueroa/OdoosvCosmo
-	url = git@github.com:Exelity-ManuelFigueroa/OdoosvCosmo.git
-	branch = main
